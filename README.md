@@ -1,24 +1,60 @@
-LARAVEL_CRUD
-<p align="center"></p>
+<p align="center">LARAVEL_CRUD</p>
+
+<h3> BARANG </h3>
+<h4>1.Tabel Barang </h4>
+<p align="center">
+    
+ <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/barang.png">
+ </p>
+ <h4>2. Tambah Barang</h4>
+ <p align="center">
+    <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/tambah%20barang.png">
+ </p>
+ <h4>3. Hasil Setelah Di Tambah </h4>
+ <p align="center">
+    <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/setelah%20di%20tambah%20barang.png">
+ </p>
+ <h3> Penerimaan Barang</h3>
+ <h4>1. Tabel Penerimaan Barang</h4>
+ <p align="center">
+    <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/penerimaan%20barang.png">
+ </p>
+ <h4>2. Tambah Penerimaan Barang</h4>
+  <p align="center">
+    <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/tambah%20penerimaan%20barang.png">
+  </p>
+  <h4>3. Hasil Setelah Di Tambah</h4>
+   <p align="center">
+<img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/setelah%20di%20tambah%20penerimaan%20barang.png">
+   </p>
+   <h3>Pengeluaran Barang</h3>
+   <h4>1. Tabel Pengeluaran Barang</h4>
+    <p align="center">
+<img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/pengeluaran%20barang.png">
+    </p>
+    <h4>2. Tambah pengeluaran Barang</h4>
+     <p align="center">
+<img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/tambah%20pengeluaran%20barang.png">
+     </p>
+     <h4>3. Hasil Setelah Di Tambah</h4>
+      <p align="center">
+<img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/setelah%20di%20tambah%20pengeluaran%20barang.png">
+</p>
 
 <p align="center">
-    <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/barang.png">
-    <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/tambah%20barang.png">
-    <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/setelah%20di%20tambah%20barang.png">
-    <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/penerimaan%20barang.png">
-    <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/tambah%20penerimaan%20barang.png">
-<img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/setelah%20di%20tambah%20penerimaan%20barang.png">
-<img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/pengeluaran%20barang.png">
-<img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/tambah%20pengeluaran%20barang.png">
-<img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/setelah%20di%20tambah%20pengeluaran%20barang.png">
+   <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a>
 
-<a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a>
-    
+
+</p>
+<p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+
+
 
 ## About Laravel
 
