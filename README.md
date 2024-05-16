@@ -7,12 +7,10 @@
     <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/setelah%20di%20tambah%20barang.png">
     <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/penerimaan%20barang.png">
     <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/tambah%20penerimaan%20barang.png">
-    <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/setelah%20di%20tambah%20penerimaan%20barang.png">
-    <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/pengeluaran%20barang.png
-">
-    <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/tambah%20pengeluaran%20barang.png
-">
-    <img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/setelah%20di%20tambah%20pengeluaran%20barang.png">
+<img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/setelah%20di%20tambah%20penerimaan%20barang.png">
+<img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/pengeluaran%20barang.png">
+<img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/tambah%20pengeluaran%20barang.png">
+<img src="https://github.com/wahyunovia/laravel_crud/blob/main/ss%20hasil/setelah%20di%20tambah%20pengeluaran%20barang.png">
     
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
