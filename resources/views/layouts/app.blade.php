@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<!doctype html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -23,6 +24,15 @@
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('pengeluaran_barang.index') }}">Pengeluaran Barang</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route('suppliers.index') }}">Supplier</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route('order_barangs.index') }}">order Barang</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="{{ route('order_details.index') }}">order detail</a>
+                </li>
             </ul>
         </div>
     </nav>
@@ -35,4 +45,4 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
-</html>
+</html> 

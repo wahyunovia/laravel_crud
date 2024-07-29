@@ -4,6 +4,9 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\BarangController;
 use App\Http\Controllers\PenerimaanBarangController;
 use App\Http\Controllers\PengeluaranBarangController;
+use App\Http\Controllers\OrderDetailController;
+use App\Http\Controllers\OrderBarangController;
+use App\Http\Controllers\SupplierController;
 use App\Http\Controllers\DashboardController;
 
 
@@ -33,3 +36,7 @@ Route::resource('penerimaan_barang', PenerimaanBarangController::class);
 Route::resource('pengeluaran_barang', PengeluaranBarangController::class);
 
 Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
+
+Route::resource('order_barangs', OrderBarangController::class);
+Route::resource('order_details', OrderDetailController::class);
+Route::resource('suppliers', SupplierController::class);
