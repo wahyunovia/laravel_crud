@@ -6,27 +6,27 @@
     <form action="{{ route('order_details.update', $orderDetail->no_po) }}" method="POST">
         @csrf
         @method('PUT')
-        <div>
+        <div class="form-group">
             <label for="kode_barang">Kode Barang:</label>
-            <input type="number" id="kode_barang" name="kode_barang" value="{{ $orderDetail->kode_barang }}">
+            <input type="number" class="form-control" id="kode_barang" name="kode_barang" value="{{ $orderDetail->kode_barang }}"required>
         </div>
-        <div>
+        <div class="form-group">
             <label for="nama_barang">Nama Barang:</label>
-            <input type="text" id="nama_barang" name="nama_barang" value="{{ $orderDetail->nama_barang }}">
+            <input type="text" class="form-control" id="nama_barang" name="nama_barang" value="{{ $orderDetail->nama_barang }}"required>
         </div>
-        <div>
+        <div class="form-group">
             <label for="harga">Harga:</label>
-            <input type="number" id="harga" name="harga" value="{{ $orderDetail->harga }}">
+            <input type="number" class="form-control" id="harga" name="harga" value="{{ $orderDetail->harga }}"required>
         </div>
-        <div>
+        <div class="form-group">
             <label for="kuantiti">Kuantiti:</label>
-            <input type="number" id="kuantiti" name="kuantiti" value="{{ $orderDetail->kuantiti }}">
+            <input type="number" class="form-control" id="kuantiti" name="kuantiti" value="{{ $orderDetail->kuantiti }}"required>
         </div>
-        <div>
+        <div class="form-group">
             <label for="tgl_simpan">Tanggal Simpan:</label>
-            <input type="date" id="tgl_simpan" name="tgl_simpan" value="{{ $orderDetail->tgl_simpan }}">
+            <input type="date" class="form-control" id="tgl_simpan" name="tgl_simpan" value="{{ $orderDetail->tgl_simpan }}"required>
         </div>
-        <button type="submit">Perbarui</button>
+        <button type="submit"  class="btn btn-primary">Simpan</button>
     </form>
 </div>
 @endsection

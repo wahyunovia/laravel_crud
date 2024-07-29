@@ -168,15 +168,39 @@
           </li>
           </ul>
 
-          <div class="mt-4 mb-4 p-3 hide-sidebar-mini">
+          <div class="mt-2 mb-2 p-1 hide-sidebar-mini">
             <a href="{{ route('barang.index') }}" class="btn btn-primary btn-lg btn-block btn-icon-split">
                Barang
             </a>
           </div>
 
-          <div class="mt-4 mb-4 p-3 hide-sidebar-mini">
+          <div class="mt-2 mb-2 p-1 hide-sidebar-mini">
             <a  href="{{ route('penerimaan_barang.index') }}" class="btn btn-primary btn-lg btn-block btn-icon-split">
               Penerimaan Barang
+            </a>
+          </div>
+
+          <div class="mt-2 mb-2 p-1 hide-sidebar-mini">
+            <a  href="{{ route('pengeluaran_barang.index') }}" class="btn btn-primary btn-lg btn-block btn-icon-split">
+              Pengeluaran Barang
+            </a>
+          </div>
+
+          <div class="mt-2 mb-2 p-1 hide-sidebar-mini">
+            <a  href="{{ route('order_details.index') }}" class="btn btn-primary btn-lg btn-block btn-icon-split">
+              Order Detail
+            </a>
+          </div>
+
+          <div class="mt-2 mb-2 p-1 hide-sidebar-mini">
+            <a  href="{{ route('order_barangs.index') }}" class="btn btn-primary btn-lg btn-block btn-icon-split">
+             Order Barang
+            </a>
+          </div>
+
+          <div class="mt-2 mb-2 p-1 hide-sidebar-mini">
+            <a  href="{{ route('suppliers.index') }}" class="btn btn-primary btn-lg btn-block btn-icon-split">
+            Supplier
             </a>
           </div>
 
@@ -222,6 +246,8 @@
   <!-- Template JS File -->
   <script src="https://demo.getstisla.com/assets/js/scripts.js"></script>
   <script src="https://demo.getstisla.com/assets/js/custom.js"></script>
+
+  
 </body>
 
 </html>
